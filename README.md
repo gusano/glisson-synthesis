@@ -4,6 +4,8 @@ Inspired by Curtis Roads *Microsound*, p121.
 
 [![Glisson Synthesis screenshot](screenshot.jpg)](https://vimeo.com/20830088)
 
+https://vimeo.com/20830088
+
 This is a raw experiment, being curious because of [this post](http://bit.ly/eyMgyL)
 on the SuperCollider list.
 
